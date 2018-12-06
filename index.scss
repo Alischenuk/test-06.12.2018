@@ -1,0 +1,18 @@
+body {
+    width: 100vw;
+
+    nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 75px;
+        background: #13E07A;
+
+        a {
+            font-size: 16px;
+            padding: 10px 20px;
+            text-decoration: none;
+            color: #ffffff;
+        }
+    }
+}
